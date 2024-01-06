@@ -1,0 +1,1 @@
+este ejercicio se basa en reforzar los conocimientos matematicos por medio de la programacion con 3 inputs y luego se suman para asi imprimir el resultado
